@@ -1,0 +1,32 @@
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\bin\Debug\sinema salonu.exe.config
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\bin\Debug\sinema salonu.exe
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\bin\Debug\sinema salonu.pdb
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\obj\Debug\sinema salonu.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\obj\Debug\sinema_salonu.Form1.resources
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\obj\Debug\sinema_salonu.Properties.Resources.resources
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\obj\Debug\sinema salonu.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\obj\Debug\sinema salonu.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\obj\Debug\sinema salonu.exe
+C:\Users\Section2\source\repos\sinema salonu\sinema salonu\obj\Debug\sinema salonu.pdb
+F:\sinema salonu\sinema salonu\bin\Debug\sinema salonu.exe.config
+F:\sinema salonu\sinema salonu\bin\Debug\sinema salonu.exe
+F:\sinema salonu\sinema salonu\bin\Debug\sinema salonu.pdb
+F:\sinema salonu\sinema salonu\obj\Debug\sinema salonu.csprojAssemblyReference.cache
+F:\sinema salonu\sinema salonu\obj\Debug\sinema_salonu.Form1.resources
+F:\sinema salonu\sinema salonu\obj\Debug\sinema_salonu.Properties.Resources.resources
+F:\sinema salonu\sinema salonu\obj\Debug\sinema salonu.csproj.GenerateResource.cache
+F:\sinema salonu\sinema salonu\obj\Debug\sinema salonu.csproj.CoreCompileInputs.cache
+F:\sinema salonu\sinema salonu\obj\Debug\sinema salonu.exe
+F:\sinema salonu\sinema salonu\obj\Debug\sinema salonu.pdb
+F:\sinema salonu\sinema salonu\obj\Debug\sinema_salonu.Form2.resources
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\bin\Debug\sinema salonu.exe.config
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\bin\Debug\sinema salonu.exe
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\bin\Debug\sinema salonu.pdb
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\obj\Debug\sinema salonu.csprojAssemblyReference.cache
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\obj\Debug\sinema_salonu.Form1.resources
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\obj\Debug\sinema_salonu.Form2.resources
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\obj\Debug\sinema_salonu.Properties.Resources.resources
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\obj\Debug\sinema salonu.csproj.GenerateResource.cache
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\obj\Debug\sinema salonu.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\obj\Debug\sinema salonu.exe
+C:\Users\kubra\Desktop\25.02\sinema salonu\sinema salonu\obj\Debug\sinema salonu.pdb
